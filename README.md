@@ -6,7 +6,7 @@ Hi, I'm David!
 </h1>
 <p align="center">
 	<a href="https://github.com/IzcueDev">
-		<img src="https://komarev.com/ghpvc/?username=izcuedev&label=Profile%20views&color=11F772FF&style=flat" alt="izcuedev" />
+		<img src="https://komarev.com/ghpvc/?username=izcuedev&label=Profile%20views&color=11F772&style=flat" alt="izcuedev" />
 	</a>
 </p>
 <br/>
