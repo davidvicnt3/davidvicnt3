@@ -1,8 +1,5 @@
 <h1 align="center">
-Hi, I'm David!
-	<a href="https://github.com/Bouaskaoun" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
+Hi, I'm David! 👋
 </h1>
 <p align="center">
 	<a href="https://github.com/IzcueDev">
