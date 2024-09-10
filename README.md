@@ -50,9 +50,9 @@ Hi, I'm David! 👋
 
 <h2 align="center" text-size="10"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
 
-<p>
+<p align="center">
 <a href="https://github.com/IzcueDev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IzcueDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IzcueDev&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IzcueDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IzcueDev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
