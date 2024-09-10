@@ -32,7 +32,7 @@ Hi, I'm David! 👋
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,arch,bash,blender,cs,css,debian,discord,eclipse&perline=8" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,arch,bash,blender,cs,css,debian,discord,eclipse,git,github,gitlab,gmail,html,java,linkedin,linux,mongodb,mysql,powershell,pycharm,py,sqlite,sublime,unity,visualstudio,vscode,windows&perline=8" />
   </a>
 </p>
 
