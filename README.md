@@ -48,7 +48,7 @@ Hi, I'm David! 👋
 -->
 
 
-## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+<h2 align="center" text-size="10"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
 
 <br/>
 <summary><b>⚡ Bouaskaoun's Stats</b></summary>
