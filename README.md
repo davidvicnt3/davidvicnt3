@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Rafael <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13F720&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13F720&width=435&lines=Welcome+to+my+profile&center=true&width=500&height=50" alt="Typing SVG" /></a>
 </p>
 
 <!--
