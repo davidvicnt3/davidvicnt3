@@ -8,13 +8,13 @@ Hi, I'm David! 👋
 </p>
 <br/>
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11F772&center=true&width=435&lines=Software+Developer;Learning+new+stuff;Game+Dev;Always+improving" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11F772&center=true&width=435&lines=Software+Developer;Learning+new+stuff;Game+Dev;Always+improving;Cybersecurity" alt="Typing SVG" /></a>
 </p>
 
 <hr>
 
 <pre>
-💻 I am a Software and Videogame Developer
+💻 I am a Cybersecurity Analyst and Software Developer
 🚩 I am from Salamanca, Spain
 🌱 Currently learning Cybersecurity
 🌟 Languages: spanish, english
@@ -32,7 +32,7 @@ Hi, I'm David! 👋
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,arch,bash,blender,cs,css,debian,discord,eclipse,git,github,gitlab,gmail,html,java,linkedin,linux,mongodb,mysql,powershell,pycharm,py,sqlite,sublime,unity,visualstudio,vscode,windows&perline=8" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,arch,bash,blender,cs,css,debian,discord,eclipse,git,github,gitlab,gmail,html,java,linkedin,linux,mongodb,mysql,powershell,pycharm,py,sqlite,sublime,unity,visualstudio,vscode,windows,kali,docker,jest,ubuntu&perline=8" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@ Hi, I'm David! 👋
 
 <p align="center">
 <a href="https://github.com/IzcueDev">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IzcueDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IzcueDev&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davidvicnt3&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidvicnt3&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
