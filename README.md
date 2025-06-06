@@ -14,7 +14,7 @@ Hi, I'm David! 👋
 <hr>
 
 <pre>
-💻 I am a Software and Videogame Developer
+💻 I am a Cybersecurity Analyst and Software Developer
 🚩 I am from Salamanca, Spain
 🌱 Currently learning Cybersecurity
 🌟 Languages: spanish, english
